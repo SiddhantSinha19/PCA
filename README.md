@@ -1,6 +1,6 @@
 Principal Component Analysis [PCA]
 
-A very short project where I implemented by own function for calculation - PCA
+A very short project where I implemented my own function for calculation - PCA
 PCA is a Exploratory Data Technique to reduce the dimensions of the data.
 
 pca.py has the function
